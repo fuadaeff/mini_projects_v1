@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\Mezenne\Mezenne\bin\Debug\net8.0\Mezenne.exe
+C:\Users\elsad\source\repos\Mezenne\Mezenne\bin\Debug\net8.0\Mezenne.deps.json
+C:\Users\elsad\source\repos\Mezenne\Mezenne\bin\Debug\net8.0\Mezenne.runtimeconfig.json
+C:\Users\elsad\source\repos\Mezenne\Mezenne\bin\Debug\net8.0\Mezenne.dll
+C:\Users\elsad\source\repos\Mezenne\Mezenne\bin\Debug\net8.0\Mezenne.pdb
+C:\Users\elsad\source\repos\Mezenne\Mezenne\obj\Debug\net8.0\Mezenne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\Mezenne\Mezenne\obj\Debug\net8.0\Mezenne.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\Mezenne\Mezenne\obj\Debug\net8.0\Mezenne.AssemblyInfo.cs
+C:\Users\elsad\source\repos\Mezenne\Mezenne\obj\Debug\net8.0\Mezenne.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\Mezenne\Mezenne\obj\Debug\net8.0\Mezenne.dll
+C:\Users\elsad\source\repos\Mezenne\Mezenne\obj\Debug\net8.0\refint\Mezenne.dll
+C:\Users\elsad\source\repos\Mezenne\Mezenne\obj\Debug\net8.0\Mezenne.pdb
+C:\Users\elsad\source\repos\Mezenne\Mezenne\obj\Debug\net8.0\Mezenne.genruntimeconfig.cache
+C:\Users\elsad\source\repos\Mezenne\Mezenne\obj\Debug\net8.0\ref\Mezenne.dll
